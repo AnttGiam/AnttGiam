@@ -4,7 +4,7 @@
 
 
 <p id="Bio" align="center">
-   <h1>Hello There (...General Kenobi) <img src="https://cdn-icons-png.flaticon.com/512/86/86483.png"></h1>
+   <h1>Hello There (...General Kenobi) <img height="30" width="30" src="https://cdn-icons-png.flaticon.com/512/922/922809.png"></h1>
 </p>
 ### Hi there 👋
 [![AnttGiam’s github stats](https://github-readme-stats.vercel.app/api?username=AnttGiam)](https://github.com/AnttGiam)
