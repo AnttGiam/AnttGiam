@@ -1,6 +1,5 @@
-<p align="center">
-  ![Giametta](https://user-images.githubusercontent.com/58905671/226881992-2115d6c6-8b30-4435-be3f-35339bfd267e.jpg)
-</p>
+![Giametta](https://user-images.githubusercontent.com/58905671/226881992-2115d6c6-8b30-4435-be3f-35339bfd267e.jpg)
+
 ### Hi there 👋
 
 <div id="Stats" align="center">
