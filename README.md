@@ -1,4 +1,7 @@
-![Giametta](https://user-images.githubusercontent.com/58905671/226881992-2115d6c6-8b30-4435-be3f-35339bfd267e.jpg)
+<p align=”center”>
+  <img src="https://user-images.githubusercontent.com/58905671/226881992-2115d6c6-8b30-4435-be3f-35339bfd267e.jpg">
+</p>
+
 
 ### Hi there 👋
 
