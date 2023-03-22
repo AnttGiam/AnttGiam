@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-[![AnttGiam’s github stats](https://github-readme-stats.vercel.app/api?username=AnttGiam)](https://github.com/AnttGiam)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnttGiam&layout=compact)](https://github.com/AnttGiam)
-
+<div id="Stats" align="center">
+  [![AnttGiam’s github stats](https://github-readme-stats.vercel.app/api?username=AnttGiam)](https://github.com/AnttGiam)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnttGiam&layout=compact)](https://github.com/AnttGiam)
+</div>
 
 <!--
 **AnttGiam/AnttGiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
