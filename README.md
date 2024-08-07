@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Penetration Testing, Cybersecurity and Blockchain.**
 
-- 📫 How to reach me **antonio.valodja@gmail.com**
+- 📫 How to reach me **antonio@giametta.me**
 
 - 📄 Know about my experiences [instagram.com/antonio_giametta](instagram.com/antonio_giametta)
 
